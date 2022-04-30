@@ -22,7 +22,7 @@ export const aboutData = {
     'I am a self-motivated Javascript developer with a good knowledge of React, ES6, CSS and API’s and a number of projects to demonstrate that. Most recently I’ve been working with mobile-responsive UI using media queries',
   paragraphTwo: ' ',
   paragraphThree: ' ',
-  resume: 'http://140.238.85.66/KaushalaDavidsonCV.pdf', // if no resume, the button will not show up
+  resume: 'http://kdavidson.uk.to/cv/KaushalaDavidsonCV.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -36,6 +36,16 @@ export const projectsData = [
       'Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file',
     url: 'https://kgdavidson.github.io/TypingSpeedTest-ReactJS/',
     repo: 'https://github.com/KGDavidson/TypingSpeedTest-ReactJS', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'https://i.postimg.cc/76NGRDRF/GIF-30-04-2022-17-02-50.gif',
+    title: 'OnTheGo (Bus/Train Times App)',
+    info: 'JavaScript, TFL API, Leaflet, CartoCDN',
+    info2:
+      'A web app for viewing TFL departure times made using JavaScript and powered by the TFL API, CartoCDN and Leaflet',
+    url: 'https://kgdavidson.github.io/OnTheGo-JS/',
+    repo: 'https://github.com/KGDavidson/OnTheGo-JS', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
