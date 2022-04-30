@@ -31,7 +31,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'https://i.postimg.cc/cLbtSWQV/GIF-30-04-2022-11-02-26.gif',
     title: 'Peditious (Typing Speed Test)',
-    info: 'ReactJS, localStorage',
+    info: 'ReactJS, localStorage, JSON',
     info2:
       'Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file',
     url: 'https://kgdavidson.github.io/TypingSpeedTest-ReactJS/',
@@ -56,6 +56,26 @@ export const projectsData = [
       'Vigenere-Vernam cipher visualisations made using ReactJS and SemanticUI. Table and mathematical visualisations included.',
     url: 'https://kgdavidson.github.io/Ciphers-ReactJS/',
     repo: 'https://github.com/KGDavidson/Ciphers-ReactJS', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'https://i.postimg.cc/26MKmZqk/ezgif-4-53eed4798a.gif',
+    title: 'BoostedBoards Site Recreation',
+    info: 'HTML, CSS, JS',
+    info2:
+      'A recreation of the Boosted Board website homepage made using pure HTML, CSS and JS. Created as an exercise in building UI to specification.',
+    url: 'https://kgdavidson.github.io/BoostedBoardsSiteRecreation-Web/',
+    repo: 'https://github.com/KGDavidson/BoostedBoardsSiteRecreation-Web', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'https://i.postimg.cc/JzBKSfV2/GIF-27-04-2022-03-43-53.gif',
+    title: 'Boid Simulator',
+    info: 'ReactJS, Algorithms',
+    info2:
+      'A boid simulator written in ReactJS using the canvas element. A boid is highlighted for ease of tracking.',
+    url: 'https://kgdavidson.github.io/BoidSimulator-ReactJS/',
+    repo: 'https://github.com/KGDavidson/BoidSimulator-ReactJS', // if no repo, the button will not show up
   },
 ];
 
