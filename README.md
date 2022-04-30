@@ -2,7 +2,7 @@
 
 Portfolio site built with ReactJS and Gatsby
 
-![UI](https://i.postimg.cc/wMBHTkbf/GIF-30-04-2022-15-29-30.gif)
+![UI](https://i.postimg.cc/dtbMzvvS/GIF-30-04-2022-15-33-22.gif)
 
 ---
 
