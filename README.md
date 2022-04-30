@@ -52,7 +52,3 @@ This project is licensed under the terms of the **MIT** license.
 -   [ReactJS](https://reactjs.org/)
 -   [Gatsby](https://www.gatsbyjs.com/)
 -   [SimpleFolio](https://github.com/cobiwave/gatsby-simplefolio)
-
-# PortfolioSite
-
-Portfolio site built with ReactJS and Gatsby
