@@ -2,8 +2,7 @@
 
 Portfolio site built with ReactJS and Gatsby
 
-![UI](https://i.postimg.cc/cLbtSWQV/GIF-30-04-2022-11-02-26.gif)
-![UI](https://i.postimg.cc/J4r4ThyR/Screenshot-2022-04-30-124330.png)
+![UI](https://i.postimg.cc/wMBHTkbf/GIF-30-04-2022-15-29-30.gif)
 
 ---
 
@@ -14,23 +13,23 @@ Portfolio site built with ReactJS and Gatsby
 
 ---
 
-## Demo
+## Live
 
--   Demo available at https://kgdavidson.github.io/TypingSpeedTest-ReactJS/
+-   Live site at http://kdavidson.uk.to/
 
 ---
 
 ## Setup
 
-Clone this repo to your desktop and run `npm install` in the `typingtest` directory to install all the dependencies.
+Clone this repo to your desktop and run `npm install` in the `folio` directory to install all the dependencies.
 
 ---
 
 ## Usage
 
-Once the dependencies are installed, you can run `npm start` in the `typingtest` directory to start the application.
+Once the dependencies are installed, you can run `npm start` in the `folio` directory to start the application.
 
-You will then be able to access it at localhost:3000
+You will then be able to access it at localhost:8000
 
 ---
 
@@ -51,9 +50,9 @@ This project is licensed under the terms of the **MIT** license.
 ## Acknowledgments
 
 -   [ReactJS](https://reactjs.org/)
--   [paragraphs.json](https://randomwordgenerator.com/json/paragraphs.json)
--   [UI Inspiration](https://dribbble.com/shots/17809623-Create-a-Typewriter-Effect-Using-Variables-and-Formulas)
-
+-   [Gatsby](https://www.gatsbyjs.com/)
+-   [SimpleFolio](https://github.com/cobiwave/gatsby-simplefolio)
 
 # PortfolioSite
- Portfolio site built with ReactJS and Gatsby
+
+Portfolio site built with ReactJS and Gatsby
