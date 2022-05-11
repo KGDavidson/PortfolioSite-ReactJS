@@ -30,16 +30,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'https://i.postimg.cc/cLbtSWQV/GIF-30-04-2022-11-02-26.gif',
-    title: 'Peditious (Typing Speed Test)',
-    info: 'ReactJS, localStorage, JSON',
-    info2:
-      'Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file',
-    url: 'https://kgdavidson.github.io/TypingSpeedTest-ReactJS/',
-    repo: 'https://github.com/KGDavidson/TypingSpeedTest-ReactJS', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'https://i.postimg.cc/76NGRDRF/GIF-30-04-2022-17-02-50.gif',
     title: 'OnTheGo (Bus/Train Times App)',
     info: 'JavaScript, TFL API, Leaflet, CartoCDN',
@@ -50,9 +40,19 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'https://i.postimg.cc/cLbtSWQV/GIF-30-04-2022-11-02-26.gif',
+    title: 'Peditious (Typing Speed Test)',
+    info: 'React, localStorage, JSON',
+    info2:
+      'Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file',
+    url: 'https://kgdavidson.github.io/TypingSpeedTest-ReactJS/',
+    repo: 'https://github.com/KGDavidson/TypingSpeedTest-ReactJS', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'https://iili.io/VvICS2.gif',
     title: 'Ciphers (Vigenere-Vernam Cipher Visualisations)',
-    info: 'ReactJS, SemanticUI, Algorithms',
+    info: 'React, SemanticUI, Algorithms',
     info2:
       'Vigenere-Vernam cipher visualisations made using ReactJS and SemanticUI. Table and mathematical visualisations included.',
     url: 'https://kgdavidson.github.io/Ciphers-ReactJS/',
@@ -72,7 +72,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'https://i.postimg.cc/JzBKSfV2/GIF-27-04-2022-03-43-53.gif',
     title: 'Boid Simulator',
-    info: 'ReactJS, Algorithms',
+    info: 'React, Algorithms',
     info2:
       'A boid simulator written in ReactJS using the canvas element. A boid is highlighted for ease of tracking.',
     url: 'https://kgdavidson.github.io/BoidSimulator-ReactJS/',
