@@ -35,7 +35,7 @@ export const projectsData = [
     info: 'JavaScript, TFL API, Leaflet, CartoCDN',
     info2:
       'A web app for viewing TFL departure times made using JavaScript and powered by the TFL API, CartoCDN and Leaflet',
-    url: 'https://kgdavidson.github.io/OnTheGo-JS/',
+    url: 'https://onthego.my.to/',
     repo: 'https://github.com/KGDavidson/OnTheGo-JS', // if no repo, the button will not show up
   },
   {
