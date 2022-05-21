@@ -45,7 +45,7 @@ export const projectsData = [
     info: 'React, localStorage, JSON',
     info2:
       'Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file',
-    url: 'https://kgdavidson.github.io/TypingSpeedTest-ReactJS/',
+    url: 'https://peditious.my.to/',
     repo: 'https://github.com/KGDavidson/TypingSpeedTest-ReactJS', // if no repo, the button will not show up
   },
   {
