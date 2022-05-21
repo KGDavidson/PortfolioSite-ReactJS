@@ -25,7 +25,6 @@ export const aboutData = {
   paragraphThree: ' ',
   resume: 'http://kdavidson.uk.to/cv/KaushalaDavidsonCV.pdf', // if no resume, the button will not show up
 };
-
 // PROJECTS DATA
 export const projectsData = [
   {
@@ -47,6 +46,15 @@ export const projectsData = [
       'Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file',
     url: 'https://peditious.my.to/',
     repo: 'https://github.com/KGDavidson/TypingSpeedTest-ReactJS', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'https://i.postimg.cc/kg4RsrfY/GIF-21-05-2022-03-05-04.gif',
+    title: 'Gifster (GIPHY Clone)',
+    info: 'React, SCSS, GIPHY API, JSON',
+    info2: 'A responsive GIPHY clone landing page built with ReactJS, SCSS and the GIPHY API',
+    url: 'https://gifster.my.to/',
+    repo: 'https://github.com/KGDavidson/Gifster-ReactJS', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
