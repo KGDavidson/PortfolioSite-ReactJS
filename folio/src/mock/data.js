@@ -29,6 +29,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'https://i.postimg.cc/NFpR8MF2/GIF-07-06-2022-05-26-11.gif',
+    title: 'Recipisio',
+    info: 'Mobile-first design, React, Typescript, SCSS, Spoonacular API,  JSON',
+    info2:
+      'A mobile-responsive search-by-ingredient recipe application powered by the Spoonacular API',
+    url: 'https://recipisio.my.to/',
+    repo: 'https://github.com/KGDavidson/Recipisio-ReactJS', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'https://i.postimg.cc/76NGRDRF/GIF-30-04-2022-17-02-50.gif',
     title: 'OnTheGo (Bus/Train Times App)',
     info: 'JavaScript, TFL API, Leaflet, CartoCDN',
@@ -36,6 +46,16 @@ export const projectsData = [
       'A web app for viewing TFL departure times made using JavaScript and powered by the TFL API, CartoCDN and Leaflet',
     url: 'https://onthego.my.to/',
     repo: 'https://github.com/KGDavidson/OnTheGo-JS', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'https://i.postimg.cc/RVD5z51H/GIF-22-05-2022-04-57-53.gif',
+    title: 'Yet Another Netflix Clone',
+    info: 'Mobile-first design, React, Typescript, SCSS, The Movie DB,  JSON',
+    info2:
+      'Yet another Netflix clone with a mobile friendly design made using ReactJS and The Movie DB',
+    url: 'https://yetanothernetflixclone.my.to/',
+    repo: 'https://github.com/KGDavidson/YetAnotherNetflixClone-ReactJS', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -51,7 +71,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'https://i.postimg.cc/kg4RsrfY/GIF-21-05-2022-03-05-04.gif',
     title: 'Gifster (GIPHY Clone)',
-    info: 'React, SCSS, GIPHY API, JSON',
+    info: 'Mobile-first design, React, SCSS, Typescript, GIPHY API, JSON',
     info2: 'A responsive GIPHY clone landing page built with ReactJS, SCSS and the GIPHY API',
     url: 'https://gifster.my.to/',
     repo: 'https://github.com/KGDavidson/Gifster-ReactJS', // if no repo, the button will not show up
