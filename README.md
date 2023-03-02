@@ -8,26 +8,26 @@ Portfolio site built with ReactJS and Gatsby
 
 ## Features
 
--   Gatsby produces static sites, making for much faster and more responsive websites
--   It uses SCSS for a faster development experience
+- Gatsby produces static sites, making for much faster and more responsive websites
+- It uses SCSS for a faster development experience
 
 ---
 
 ## Live
 
--   Live site at http://kdavidson.uk.to/
+- Live site at http://kdavidson.uk.to/
 
 ---
 
 ## Setup
 
-Clone this repo to your desktop and run `npm install` in the `folio` directory to install all the dependencies.
+Clone this repo to your desktop and run `npm install` in the root directory to install all the dependencies.
 
 ---
 
 ## Usage
 
-Once the dependencies are installed, you can run `npm start` in the `folio` directory to start the application.
+Once the dependencies are installed, you can run `npm start` in the root directory to start the application.
 
 You will then be able to access it at localhost:8000
 
@@ -49,6 +49,6 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Acknowledgments
 
--   [ReactJS](https://reactjs.org/)
--   [Gatsby](https://www.gatsbyjs.com/)
--   [SimpleFolio](https://github.com/cobiwave/gatsby-simplefolio)
+- [Gatsby](https://www.gatsbyjs.com/)
+- [ReactJS](https://reactjs.org/)
+- [SimpleFolio](https://github.com/cobiwave/gatsby-simplefolio)
