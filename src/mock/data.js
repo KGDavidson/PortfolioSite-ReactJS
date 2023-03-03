@@ -34,7 +34,7 @@ export const projectsData = [
     info: 'Mobile-first design, React, Typescript, SCSS, Spoonacular API,  JSON',
     info2:
       'A mobile-responsive search-by-ingredient recipe application powered by the Spoonacular API',
-    url: 'https://recipisio.my.to/',
+    url: 'https://recipisio.netlify.app/',
     repo: 'https://github.com/KGDavidson/Recipisio-ReactJS', // if no repo, the button will not show up
   },
   {
@@ -44,7 +44,7 @@ export const projectsData = [
     info: 'JavaScript, TFL API, Leaflet, CartoCDN',
     info2:
       'A web app for viewing TFL departure times made using JavaScript and powered by the TFL API, CartoCDN and Leaflet',
-    url: 'https://onthego.my.to/',
+    url: 'https://onthego-js.netlify.app/',
     repo: 'https://github.com/KGDavidson/OnTheGo-JS', // if no repo, the button will not show up
   },
   {
@@ -54,7 +54,7 @@ export const projectsData = [
     info: 'Mobile-first design, React, Typescript, SCSS, The Movie DB,  JSON',
     info2:
       'Yet another Netflix clone with a mobile friendly design made using ReactJS and The Movie DB',
-    url: 'https://yetanothernetflixclone.my.to/',
+    url: 'https://yetanothernetflixclone.netlify.app/',
     repo: 'https://github.com/KGDavidson/YetAnotherNetflixClone-ReactJS', // if no repo, the button will not show up
   },
   {
@@ -64,7 +64,7 @@ export const projectsData = [
     info: 'React, localStorage, JSON',
     info2:
       'Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file',
-    url: 'https://peditious.my.to/',
+    url: 'https://peditious.netlify.app/',
     repo: 'https://github.com/KGDavidson/TypingSpeedTest-ReactJS', // if no repo, the button will not show up
   },
   {
@@ -73,7 +73,7 @@ export const projectsData = [
     title: 'Gifster (GIPHY Clone)',
     info: 'Mobile-first design, React, SCSS, Typescript, GIPHY API, JSON',
     info2: 'A responsive GIPHY clone landing page built with ReactJS, SCSS and the GIPHY API',
-    url: 'https://gifster.my.to/',
+    url: 'https://gifster-js.netlify.app/',
     repo: 'https://github.com/KGDavidson/Gifster-ReactJS', // if no repo, the button will not show up
   },
   {
