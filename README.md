@@ -15,7 +15,7 @@ Portfolio site built with ReactJS and Gatsby
 
 ## Live
 
-- Live site at https://kdavidson.netlify.app/
+- Live site at http://kdavidson.uk.to/
 
 ---
 

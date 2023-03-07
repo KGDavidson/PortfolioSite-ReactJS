@@ -12,7 +12,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Kaushala Davidson',
-  subtitle: "I'm a fullstack developer",
+  subtitle: "I'm a full-stack developer",
   cta: '',
 };
 
@@ -20,19 +20,12 @@ export const heroData = {
 export const aboutData = {
   img: '',
   paragraphOne:
-    'I am a self-motivated Javascript developer with a good knowledge of React, ES6, CSS and API’s and a number of projects to demonstrate that. Most recently I’ve been working with mobile-responsive UI using media queries',
+    'I am a self-motivated full-stack developer with a good knowledge of React, Serverless functions, Tailwind and SQL as well as noSQL databases. Most recently I’ve been working with Next.JS on full-stack projects.',
   paragraphTwo: ' ',
   paragraphThree: ' ',
   resume: 'KaushalaDavidsonCV.pdf', // if no resume, the button will not show up
 };
 
-// ### [ShortVC]](https://github.com/KGDavidson/ShortVC-NextJS)
-
-// A mobile-responsive url shortening management service with OAuth, built with NextJS and the T3 stack
-
-// ![UI](https://i.postimg.cc/tCbShBKN/ezgif-com-optimize-1-1.gif)
-
-// ---
 // PROJECTS DATA
 export const projectsData = [
   {
@@ -104,26 +97,26 @@ export const projectsData = [
     url: 'https://kgdavidson.github.io/Ciphers-ReactJS/',
     repo: 'https://github.com/KGDavidson/Ciphers-ReactJS', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'https://i.postimg.cc/26MKmZqk/ezgif-4-53eed4798a.gif',
-    title: 'BoostedBoards Site Recreation',
-    info: 'HTML, CSS, JS',
-    info2:
-      'A recreation of the Boosted Board website homepage made using pure HTML, CSS and JS. Created as an exercise in building UI to specification.',
-    url: 'https://kgdavidson.github.io/BoostedBoardsSiteRecreation-Web/',
-    repo: 'https://github.com/KGDavidson/BoostedBoardsSiteRecreation-Web', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'https://i.postimg.cc/JzBKSfV2/GIF-27-04-2022-03-43-53.gif',
-    title: 'Boid Simulator',
-    info: 'React, Algorithms',
-    info2:
-      'A boid simulator written in ReactJS using the canvas element. A boid is highlighted for ease of tracking.',
-    url: 'https://kgdavidson.github.io/BoidSimulator-ReactJS/',
-    repo: 'https://github.com/KGDavidson/BoidSimulator-ReactJS', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'https://i.postimg.cc/26MKmZqk/ezgif-4-53eed4798a.gif',
+  //   title: 'BoostedBoards Site Recreation',
+  //   info: 'HTML, CSS, JS',
+  //   info2:
+  //     'A recreation of the Boosted Board website homepage made using pure HTML, CSS and JS. Created as an exercise in building UI to specification.',
+  //   url: 'https://kgdavidson.github.io/BoostedBoardsSiteRecreation-Web/',
+  //   repo: 'https://github.com/KGDavidson/BoostedBoardsSiteRecreation-Web', // if no repo, the button will not show up
+  // },
+  // {
+  //   id: nanoid(),
+  //   img: 'https://i.postimg.cc/JzBKSfV2/GIF-27-04-2022-03-43-53.gif',
+  //   title: 'Boid Simulator',
+  //   info: 'React, Algorithms',
+  //   info2:
+  //     'A boid simulator written in ReactJS using the canvas element. A boid is highlighted for ease of tracking.',
+  //   url: 'https://kgdavidson.github.io/BoidSimulator-ReactJS/',
+  //   repo: 'https://github.com/KGDavidson/BoidSimulator-ReactJS', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
