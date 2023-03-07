@@ -25,8 +25,26 @@ export const aboutData = {
   paragraphThree: ' ',
   resume: 'KaushalaDavidsonCV.pdf', // if no resume, the button will not show up
 };
+
+// ### [ShortVC]](https://github.com/KGDavidson/ShortVC-NextJS)
+
+// A mobile-responsive url shortening management service with OAuth, built with NextJS and the T3 stack
+
+// ![UI](https://i.postimg.cc/tCbShBKN/ezgif-com-optimize-1-1.gif)
+
+// ---
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'https://i.postimg.cc/tCbShBKN/ezgif-com-optimize-1-1.gif',
+    title: 'ShortVC',
+    info: 'Mobile-first design, NextJS, React, Typescript, Tailwind, Supabase, OAuth',
+    info2:
+      'A mobile-responsive url shortening management service with OAuth, built with NextJS and the T3 stack',
+    url: 'http://tro.hs.vc/',
+    repo: 'https://github.com/KGDavidson/ShortVC-NextJS', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'https://i.postimg.cc/RC2WLfHB/ezgif-com-optimize.gif',
