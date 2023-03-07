@@ -29,7 +29,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'https://i.postimg.cc/NFpR8MF2/GIF-07-06-2022-05-26-11.gif',
+    img: 'https://i.postimg.cc/RC2WLfHB/ezgif-com-optimize.gif',
     title: 'Recipisio',
     info: 'Mobile-first design, React, Typescript, SCSS, Spoonacular API,  JSON',
     info2:
