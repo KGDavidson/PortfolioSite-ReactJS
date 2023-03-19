@@ -40,6 +40,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'https://i.postimg.cc/wBXqxDGV/ezgif-com-video-to-gif.gif',
+    title: 'TransientMail',
+    info: 'Mobile-first design, React, Typescript, Tailwind, Mail.TM API, JSON',
+    info2:
+      'A temporary email service powered by mail.tm and built with React',
+    url: 'https://transientmail.netlify.app/',
+    repo: 'https://github.com/KGDavidson/TransientMail-ReactJS', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'https://i.postimg.cc/RC2WLfHB/ezgif-com-optimize.gif',
     title: 'Recipisio',
     info: 'Mobile-first design, React, Typescript, SCSS, Spoonacular API,  JSON',
