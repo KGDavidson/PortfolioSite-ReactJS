@@ -1,4 +1,10 @@
+/**
+ * @type {import('gatsby').GatsbyConfig}
+ */
 module.exports = {
+  siteMetadata: {
+    title: 'K Davidson',
+  },
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
@@ -25,11 +31,11 @@ module.exports = {
         name: `Kaushala Davidson`,
         short_name: `KDavidson`,
         start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#02aab0`,
+        background_color: `#F4F4F5`,
+        theme_color: `#0077B6`,
         display: `standalone`,
         icon: 'src/images/favicon.png',
       },
     },
   ],
-};
+}
