@@ -15,13 +15,13 @@ Portfolio site built with ReactJS and Gatsby
 
 ## Live
 
-- Live site at http://kdavidson.uk.to/
+- Live site at http://kdavidson.netlify.app
 
 ---
 
 ## Setup
 
-Clone this repo to your desktop and run `npm install` in the root directory to install all the dependencies.
+Clone this repo to your desktop and run `npm install --legacy-peer-deps` in the root directory to install all the dependencies.
 
 ---
 
