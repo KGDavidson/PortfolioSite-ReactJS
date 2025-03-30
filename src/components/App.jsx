@@ -11,8 +11,8 @@ import { heroData, aboutData, projectsData, contactData, footerData } from '../m
 import { useCallback } from 'react';
 import { useLayoutEffect } from 'react';
 
-let canvasWidth = window.innerWidth;
-let canvasHeight = window.innerHeight;
+let canvasWidth = typeof window !== "undefined" ? window.innerWidth : 0;
+let canvasHeight = typeof window !== "undefined" ? window.innerHeight : 0;
 
 let boids;
 
